@@ -2,7 +2,7 @@
 
 ## Mobile Application Development, Semester 2, Tahun Akademik 2022/2023
 
-## #Group Exercise 06
+## #Group Exercise 07
 
 Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini anda diminta untuk menginstall React Native CLI (Bukan Expo) dilaptop/PC masing-masing, dimana langkah-langkahnya adalah sebagai berikut:
 
@@ -22,7 +22,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 | Instalasi JDK                             |  Done  | [ Openjdk 11.0.18 2023-01017 LTS ]|
 | Android Studio                            |  Done  | 31                                |
 | SDK                                       |  Done  | 30                                |
-| ANDROID_HOME & Add platform-tools to Path |        | -                                 |
+| ANDROID_HOME & Add platform-tools to Path |  Done  | -                                 |
 | Android Emulator (opt)                    |        | -                                 |
 | Create Project RN using npx               |        | -                                 |
 | Run Project on Emulator / Device          |        | -                                 |
