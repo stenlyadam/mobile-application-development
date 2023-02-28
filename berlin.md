@@ -1,10 +1,10 @@
 ## Berlin Group
 
-Korompis, Rangga
-Radix
-Masengi, Julio
-Tular, Alvino
-Sakul, Ezra
+- Korompis, Rangga
+- Radix
+- Masengi, Julio
+- Tular, Alvino
+- Sakul, Ezra
 
 ## Status Instalasi
 
