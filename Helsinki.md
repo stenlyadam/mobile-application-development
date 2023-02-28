@@ -23,7 +23,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 | Android Studio                            |  Done  | 31                                |
 | SDK                                       |  Done  | 30                                |
 | ANDROID_HOME & Add platform-tools to Path |  Done  | -                                 |
-| Android Emulator (opt)                    |  Done  | -                                 |
+| Android Emulator (opt)                    |  Done  | pixel XL api 31                   |
 | Create Project RN using npx               |  Done  | -                                 |
 | Run Project on Emulator / Device          |  Done  | -                                 |
 
