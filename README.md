@@ -13,7 +13,7 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 - Install Android Emulator (optional - bisa dilewati jika anda ingin menjalankan aplikasi langsung dari hp. Baca dokumentasi [running on device])
 - Create project React Native menggunakan npx
 - Run project
-
+asfwa
 ## Status Instalasi
 
 | Langkah-langkah                           | Status | Versi |
