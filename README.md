@@ -1,5 +1,3 @@
-# Chapter 5. Setup Environment React Native
-
 ## Mobile Application Development, Semester 2, Tahun Akademik 2022/2023
 
 ## #Group Exercise 06
