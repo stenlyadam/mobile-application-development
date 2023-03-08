@@ -2,8 +2,6 @@
 
 ## Mobile Application Development, Semester 2, Tahun Akademik 2022/2023
 
-## #Group Exercise 06
-
 Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini anda diminta untuk menginstall React Native CLI (Bukan Expo) dilaptop/PC masing-masing, dimana langkah-langkahnya adalah sebagai berikut:
 
 - Install Node, JDK
