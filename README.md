@@ -15,7 +15,6 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 - Run project
 
 ## Status Instalasi
-
 | Langkah-langkah                           | Status | Versi                       |
 | ----------------------------------------- | ------ | --------------------------- |
 | Node                                      | Done   | 18.12.1.                    |
