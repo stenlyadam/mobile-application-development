@@ -16,32 +16,19 @@ Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini 
 
 ## Status Instalasi
 
-| Langkah-langkah                           | Status | Versi |
-| ----------------------------------------- | ------ | ----- |
-| Instalasi Node                            |        |       |
-| Instalasi JDK                             |        |       |
-| Android Studio                            |        |       |
-| SDK                                       |        |       |
-| ANDROID_HOME & Add platform-tools to Path |        | -     |
-| Android Emulator (opt)                    |        | -     |
-| Create Project RN using npx               |        | -     |
-| Run Project on Emulator / Device          |        | -     |
+| Langkah-langkah                           | Status | Versi                         |
+| ----------------------------------------- | ------ | -----                         |
+| Instalasi Node                            | Done   |v18.15.0                       |
+| Instalasi JDK                             | Done   | openjdk 17.0.6 2023-01-17 LTS |
+| Android Studio                            | Done   |     2022.1.1 Patch 2          |
+| SDK                                       | Done   |   33                          |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                             |
+| Android Emulator (opt)                    | Done   | Pixel 2XL API 33              |
+| Create Project RN using npx               | Done   | -                             |
+| Run Project on Emulator / Device          | Done   | Emulator                      |
 
 Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi versinya:
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
-Sebagai contoh :
-
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
-
 ## Langkah-langkah Pengumpulan Latihan
 
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b
