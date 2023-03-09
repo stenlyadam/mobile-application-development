@@ -31,16 +31,16 @@ Silahkan update status instalasi anda, apabila sudah terinstall silahkan isi ver
 untuk mengetahui versi node ketik dari cmd (node -v) untuk mengetahui versi JDK ketik dari cmd (java --version).
 Sebagai contoh :
 
-| Langkah-langkah                           | Status | Versi                       |
-| ----------------------------------------- | ------ | --------------------------- |
-| Node                                      | Done   | 12.13.1                     |
-| JDK                                       | Done   | [openjdk 11.0.5 2019-10-15] |
-| Android Studio                            | Done   | 4.0                         |
-| SDK                                       | Done   | 29                          |
-| ANDROID_HOME & Add platform-tools to Path | Done   | -                           |
-| Android Emulator (opt)                    | Done   | pixel 2 xl api 29           |
-| Create Project RN using npx               | Done   | -                           |
-| Run Project on Emulator / Device          | Done   | -                           |
+| Langkah-langkah                           | Status | Versi                                    |
+| ----------------------------------------- | ------ | ---------------------------              |
+| Node                                      | Done   |v16.17.0                                   |
+| JDK                                       | Done   | openjdk version "11.0.18" 2023-01-17 LTS |
+| Android Studio                            | Done   | chipmunk 2021.2.1patch 2                                      |
+| SDK                                       | Done   | 31                                       |
+| ANDROID_HOME & Add platform-tools to Path | Done   | -                                        |
+| Android Emulator (opt)                    | Done   | pixel  xl api 31                         |
+| Create Project RN using npx               | Done   | -                                        |
+| Run Project on Emulator / Device          | Done   | -                         `              |
 
 ## Langkah-langkah Pengumpulan Latihan
 
