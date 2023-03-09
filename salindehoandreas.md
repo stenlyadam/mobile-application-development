@@ -43,7 +43,7 @@ Sebagai contoh :
 | Run Project on Emulator / Device          | Done   | -                           |
 
 ## Langkah-langkah Pengumpulan Latihan
-
+a
 - Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b
 - Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama kelompok anda. contoh: berlin
 - Buat file baru sama seperti nama branch anda dengan format .md. contoh: berlin.md
