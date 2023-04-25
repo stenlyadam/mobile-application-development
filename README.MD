@@ -1,3 +1,3 @@
-# MoneyTracker App.
+# MoneyTracker.
 
 Created for "Mobile Programming Dev. Class"
