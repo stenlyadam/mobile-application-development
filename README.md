@@ -1,8 +1,8 @@
-# Chapter 5. Setup Environment React Native
+# Chapter 1. Setup Environment React Native
 
-## Mobile Application Development, Semester 2, Tahun Akademik 2022/2023
+## Mobile Application Development, Semester 2, Tahun Akademik 2023/2024
 
-## #Group Exercise 06
+## #Exercise 01
 
 Pada Chapter ini kita akan melakukan instalasi [react native]. Pada latihan ini anda diminta untuk menginstall React Native CLI (Bukan Expo) dilaptop/PC masing-masing, dimana langkah-langkahnya adalah sebagai berikut:
 
@@ -44,11 +44,11 @@ Sebagai contoh :
 
 ## Langkah-langkah Pengumpulan Latihan
 
-- Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b
-- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama kelompok anda. contoh: berlin
-- Buat file baru sama seperti nama branch anda dengan format .md. contoh: berlin.md
+- Fork project github ini. Ada terdapat 3 branch yaitu: master, parallel-a, parallel-b, parallel-c
+- Dari local laptop/PC anda buat branch baru dengan nama sesuai dengan nama diikuti oleh nim. contoh: johndoe_105022110001
+- Buat file baru sama seperti nama anda dengan format .md. contoh: johndoe_105022110001.md
 - Edit file tersebut dengan mengisi status instalasi pada tabel yang sudah disediakan.
-- git add dan commit dengan commit message "adding berlin.md"
+- git add dan commit dengan commit message "adding johndoe_105022110001.md"
 - lakukan pull request ke dalam branch sesuai dengan parallel kelas anda. (Bukan Branch Master)
 
   [react native]: https://reactnative.dev/docs/environment-setup
